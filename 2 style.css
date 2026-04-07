@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(5, 30, 105);
+}
+h1 {
+    background-color: brown;
+    color: rgb(252, 184, 96);
+    text-align: center;
+    padding: 20px;
+}
+p {
+color:whitesmoke;
+font-size: 25px; 
+margin: 10px;
+width: 1300px;
+}
+h2 {
+    background-color: rgb(223, 83, 3);
+    color: antiquewhite;
+    text-align: center;
+    padding: 15px;
+}
+h3 {
+    background-color: rgba(3, 143, 3, 0.856);
+    color: rgb(2, 8, 8);
+    text-align: left;
+    padding: 10px;
+}
+ul{
+background-color: rgb(2, 63, 94);
+color: rgb(245, 239, 239);
+font-size: 25px;
+}
+#first {
+    background-color: rgba(252, 176, 11, 0.74);
+}
+.wow {
+    background-color: rgb(1, 109, 109);
+    font-weight: bold;
+}
+div{
+    font-weight: bold;
+}
